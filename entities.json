@@ -2,5 +2,5 @@
     "Menny": {"id": 1, "title": "manager", "salary": 20000},
     "Yossi": {"id": 2, "title": "developer", "salary": 15000},
     "Monica": {"id": 3, "title": "developer", "salary": 17000},
-    "Lee": {"id":  5, "title": "secretary", "salary": 8000}
+    "Lee": {"id":  4, "title": "secretary", "salary": 8000}
 }
