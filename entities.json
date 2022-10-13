@@ -1,6 +1,1 @@
-{
-    "Menny": {"id": 1, "title": "manager", "salary": 20000},
-    "Yossi": {"id": 2, "title": "developer", "salary": 15000},
-    "Monica": {"id": 3, "title": "developer", "salary": 17000},
-    "Lee": {"id":  5, "title": "secretary", "salary": 8000}
-}
+{"Menny": {"id": 1, "title": "manager", "salary": 20000}, "Yossi": {"id": 2, "title": "developer", "salary": 15000}, "Monica": {"id": 3, "title": "developer", "salary": 17000}, "Lee": {"id": 5, "title": "secretary", "salary": 8000}, "a": {"id": 63, "title": "e", "salary": 4.0}, "Sunil": {"id": 181, "title": "developer", "salary": 25000.0}}
